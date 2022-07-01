@@ -27,6 +27,7 @@ this web service is a standable email management system throw gmail provider tha
 
 also it contains function to create a random password with specified length named RandomPassword.
 
+Tech used:
 - random
 - C#
 - asp.net
