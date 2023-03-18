@@ -1,5 +1,5 @@
 # Email-WebServicere
-company Email manager webservice using C# 
+company Email manager webservice using C# as ASMX file
 
 [{( this web service was part of my final project for my high school somputer science project. )}]
 
